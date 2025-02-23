@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303626282827",
+    "project_id": "u-s-t-h-resources-4dhb63",
+    "storage_bucket": "u-s-t-h-resources-4dhb63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303626282827:android:e7732fdf27882020f72ace",
+        "android_client_info": {
+          "package_name": "io.builderking.foodcort"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYAdAHiPCJnwwx-H6xjeZ1mEP6BRlGaXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
