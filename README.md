@@ -38,6 +38,10 @@ With a focus on **efficiency and automation**, **SURAS** integrates:
 - **Sign recognition for uploaded notes/images**.
 - **Resource recommendations** based on learning patterns.
 
+ 📌 *User authentication interface*
+ 
+![User authentication interface](https://github.com/DucAnh025/University-Resources-Application/blob/main/App%20interfaces/app%20001.png?raw=true)
+
 ---
 
 ## 🏗 System Architecture
@@ -48,6 +52,11 @@ With a focus on **efficiency and automation**, **SURAS** integrates:
 - **Database:** Firestore (NoSQL for real-time access)
 - **AI Integration:** OpenAI API (GPT-4o for chatbot, image recognition)
 - **Payment Gateway:** MOMO API
+
+ 📌 *User’s Home page*
+ 
+![User’s Home page](https://github.com/DucAnh025/University-Resources-Application/blob/main/App%20interfaces/app%20002.png?raw=true)
+
 
 ---
 
@@ -65,6 +74,10 @@ cd SURAS-Application
 flutter pub get
 flutter run
 ```
+
+ 📌 *User other pages*
+ 
+![User other pages](https://github.com/DucAnh025/University-Resources-Application/blob/main/App%20interfaces/app%20003.png?raw=true)
 
 ---
 
@@ -93,7 +106,11 @@ flutter run
 - Upload handwritten notes or images for **text recognition**.
 - **Track learning progress** via AI-generated study recommendations.
 
-📌 *App interface preview*
+
+ 📌 *Overall user interfaces of the application*
+ 
+![Overall user interfaces of the application](https://github.com/DucAnh025/University-Resources-Application/blob/main/App%20interfaces/app000.png?raw=true)
+
 
 ---
 
